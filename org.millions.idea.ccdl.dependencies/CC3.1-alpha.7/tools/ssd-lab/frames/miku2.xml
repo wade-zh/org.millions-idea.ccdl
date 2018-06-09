@@ -1,0 +1,31 @@
+<annotation><size><width>519</width><height>632</height></size>
+            <object>
+                <name>plane</name>
+                <bndbox>
+                    <xmin>89</xmin>
+                    <ymin>237</ymin>
+                    <xmax>286</xmax>
+                    <ymax>380</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>demo</name>
+                <bndbox>
+                    <xmin>127</xmin>
+                    <ymin>119</ymin>
+                    <xmax>355</xmax>
+                    <ymax>258</ymax>
+                </bndbox>
+            </object>
+            
+            <object>
+                <name>demo</name>
+                <bndbox>
+                    <xmin>287</xmin>
+                    <ymin>449</ymin>
+                    <xmax>431</xmax>
+                    <ymax>515</ymax>
+                </bndbox>
+            </object>
+            </annotation>

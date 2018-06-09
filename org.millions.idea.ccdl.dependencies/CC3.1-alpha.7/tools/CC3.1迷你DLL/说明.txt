@@ -1,0 +1,5 @@
+2017年7月2日 15:55:26  Wish小哥
+这个dll是无依赖的，3.1版本的。win32版本的
+
+upx-classification_dll这个是经过upx过后的dll，可能会有比如任务池不能使用的情况
+classification_dll这个是原版的，没有upx压缩过的

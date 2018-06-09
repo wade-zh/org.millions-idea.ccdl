@@ -1,0 +1,5 @@
+F:\repository\org.millions-idea.ccdl\org.millions.idea.ccdl\org.millions.idea.ccdl.entity\bin\Debug\org.millions.idea.ccdl.entity.dll
+F:\repository\org.millions-idea.ccdl\org.millions.idea.ccdl\org.millions.idea.ccdl.entity\bin\Debug\org.millions.idea.ccdl.entity.pdb
+F:\repository\org.millions-idea.ccdl\org.millions.idea.ccdl\org.millions.idea.ccdl.entity\obj\Debug\org.millions.idea.ccdl.entity.csproj.CoreCompileInputs.cache
+F:\repository\org.millions-idea.ccdl\org.millions.idea.ccdl\org.millions.idea.ccdl.entity\obj\Debug\org.millions.idea.ccdl.entity.dll
+F:\repository\org.millions-idea.ccdl\org.millions.idea.ccdl\org.millions.idea.ccdl.entity\obj\Debug\org.millions.idea.ccdl.entity.pdb

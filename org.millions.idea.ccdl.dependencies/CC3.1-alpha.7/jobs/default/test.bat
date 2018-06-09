@@ -1,0 +1,2 @@
+"F:\repository\org.millions-idea.ccdl\org.millions.idea.ccdl\org.millions.idea.ccdl.dependencies\CC3.1-alpha.7\bin\convert_imageset.exe" "" label-train.txt train_lmdb --shuffle=true --resize_width=120 --resize_height=30
+pause
