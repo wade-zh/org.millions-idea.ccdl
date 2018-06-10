@@ -1,4 +1,5 @@
-﻿using System;
+﻿using org.millions.idea.ccdl.web.App_Start;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -18,6 +19,7 @@ namespace org.millions.idea.ccdl.web
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+            SocketConfig.StartWsServer("127.0.0.1", 10086);
         }
     }
 }
